@@ -6,7 +6,7 @@ class Odd
    {
       
       int x;
-      System.out.println("Enter an integer to check if it is odd or even ");
+      System.out.println("git pull Enter an integer to check if it is odd or even ");
       Scanner in = new Scanner(System.in);
       x = in.nextInt();
  
